@@ -32,11 +32,11 @@ The transformation journey will culminate in the formation of the word "B I R D.
 
 ---
 
+**References**
+- 2021, The Coding Train, https://www.youtube.com/watch?v=syR0klfncCk&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=32&ab_channel=TheCodingTrain, last accessed: Sept 25th 2024
+- 2020, The Coding Train, https://www.youtube.com/watch?v=EpgB3cNhKPM&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=21&ab_channel=TheCodingTrain, last accessed: Sept 25th 2024
+- 2015, Patrick Huebner, https://www.patrik-huebner.com/creative-coding/recursive-animations/, last accessed: Sept 25th 2024
+- 2015, Patrick Huebner, https://www.patrik-huebner.com/creative-coding/mccc-november/, last accessed: Sept 25th 2024
+
 >**Acknowledgement**
 Grammarly was used to assist with grammar check on this assignment
-
->**References**
-2021, The Coding Train, https://www.youtube.com/watch?v=syR0klfncCk&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=32&ab_channel=TheCodingTrain, last accessed: Sept 25th 2024
-2020, The Coding Train, https://www.youtube.com/watch?v=EpgB3cNhKPM&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM&index=21&ab_channel=TheCodingTrain, last accessed: Sept 25th 2024
-2015, Patrick Huebner, https://www.patrik-huebner.com/creative-coding/recursive-animations/, last accessed: Sept 25th 2024
-2015, Patrick Huebner, https://www.patrik-huebner.com/creative-coding/mccc-november/, last accessed: Sept 25th 2024
