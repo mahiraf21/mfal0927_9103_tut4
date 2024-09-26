@@ -3,7 +3,10 @@ mfal0927_9103_tut4
 # Week 8 Quiz
 
 ## Imaging Technique Inspiration
-The art chosen for this assignment is **Pablo Picasso's Dove of Peace**. Inspired by the innovative techniques of artist [Patrik Huebner](https://www.patrik-huebner.com/creative-coding/), I plan to transform the original art, which mainly consists of lines, into a dynamic composition of multiple dots that will come to life through animation.
+The art chosen for this assignment is **Pablo Picasso's Dove of Peace**. 
+![A dove artwork consists of lines](readmeImages/Pablo%20Picasso%20Dove%20of%20peace.jpg)
+
+Inspired by the innovative techniques of artist [Patrik Huebner](https://www.patrik-huebner.com/creative-coding/), I plan to transform the original art, which mainly consists of lines, into a dynamic composition of multiple dots that will come to life through animation.
 
 ![A heart-shaped artwork that consists of multiple dots and the dots animate in a recursive motions](readmeImages/Recursive.png)
 
